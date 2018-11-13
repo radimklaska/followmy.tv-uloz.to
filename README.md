@@ -5,6 +5,7 @@
 * Firefox: https://www.google.cz/search?q=greasemonkey#q=greasemonkey+firefox
 * IE: http://stackoverflow.com/questions/11876852/how-to-run-a-modern-userscript-on-internet-explorer
 * https://github.com/radimklaska/followmy.tv-uloz.to/raw/master/followmy.tv-uloz.to.user.js
+* https://followmy.tv/show_list
 
 # What it does
 * Checks which is the next episode you haven't seen yet.
