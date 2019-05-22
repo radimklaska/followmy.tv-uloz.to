@@ -48,7 +48,7 @@ s.textContent = '(' + function() {
             for (ep = E; ((ep < E+unwatched) && (ep < E+20)); ep++) {
                 var searchquery = name + " S" + zeroPad(S, 2) + "E" + zeroPad(ep, 2);
                 searchquery = searchquery.replace(/ /g, "+");
-                searchquery = "https://uloz.to/hledej?q=" + searchquery
+                searchquery = "https://uloz.to/hledej?type=videos&q=" + searchquery
                 $(airdate).append(' <a href="' + searchquery + '">E' + ep + '</a>');
             }
 
