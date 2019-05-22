@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Followmy.tv & Uloz.to
 // @namespace    http://klaska.net
-// @version      1.0
+// @version      1.1
 // @description  Adds Uloz.to search links to Followmy.tv.
 // @author       Radim Klaška
 // @match        https://followmy.tv/show_list
